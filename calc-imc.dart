@@ -38,7 +38,7 @@ formulaCalcImc(double peso, double altura) {
   return peso / (altura * altura);
 }
 
-// Mostrar na tela o resultado da formula junto com resultado
+// Mostrar na tela o resultado.
 imprimirImc(double calculo, String imc) {
   if (calculo < 18.5) {
     print('Seu IMC é ' + imc + ' ======= Menor que 18.5 - Abaixo do peso');
