@@ -1,3 +1,3 @@
 # dart-flutter
 
-Aprendendo DART.
+Aprendendo DART para construir aplicações com FLUTTER.
