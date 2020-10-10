@@ -55,7 +55,7 @@ imprimirImc(double calculo, String imc) {
   } else if (calculo > 40.0) {
     print('Seu IMC é ' +
         imc +
-        ' ======= Acima de 40.0 - Obesidade Grau 3 ==== VAI MALHAR !!!! ');
+        ' ======= Acima de 40.0 - Obesidade Grau 3 ==== ');
   }
   ;
 }
