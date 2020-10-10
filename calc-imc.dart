@@ -57,5 +57,4 @@ imprimirImc(double calculo, String imc) {
         imc +
         ' ======= Acima de 40.0 - Obesidade Grau 3 ==== ');
   }
-  ;
 }
